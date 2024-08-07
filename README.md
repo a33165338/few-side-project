@@ -21,6 +21,7 @@ okay let start it.
     
 首先我使用chatGPT來生成了一個開發的框架以及步驟
 ![image](https://hackmd.io/_uploads/SkjZ6a0tA.png)
+
 由於此次只是做一個初步的學習，並且數據的收集、處理，網路上有現成的數據，並且已經有一定良率的訓練以及優化了，本次的學習重點是軟體開發，所以將著重於軟體的部分。
 (其實就是GPT說了9句廢話1句有用的話)
 
@@ -41,6 +42,7 @@ GPT提到需要選擇一個學習模型、並且預設了YOLO，所以我選擇Y
 已經讀取影片、YOLO的數據，我使用Print檢測後都能夠讀取到，接下來困難的就是要開始研究YOLO的實現的方法了。
 
 然後就是一個初步的思路:
+
 ![image](https://hackmd.io/_uploads/r1TVs-Jq0.png)
 
 
